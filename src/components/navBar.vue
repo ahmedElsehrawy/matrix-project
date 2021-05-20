@@ -20,9 +20,7 @@
             <router-link to="/plans">PLANS</router-link>
           </li>
 
-          <li @click="scroll">
-            <router-link to="/about">ABOUT</router-link>
-          </li>
+         
         </ul>
       </div>
       <!-- The Navigator -->

@@ -1,7 +1,6 @@
 import Vue from "vue";
 import VueRouter from "vue-router";
 import Home from '../views/Home.vue';
-import About from '../views/About.vue';
 import Plans from '../views/Plans.vue';
 import Enroll from '../views/Enroll.vue'
 
@@ -16,10 +15,7 @@ const routes = [
         path: '/plans',
         component: Plans
     },
-    {
-        path: '/about',
-        component: About
-    },
+    
     {
         path: '/enroll/:id',
         component: Enroll
