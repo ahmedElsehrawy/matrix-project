@@ -1,4 +1,4 @@
-# project-one
+# Matrix project vue js
 
 ## Project setup
 ```
